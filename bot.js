@@ -299,4 +299,4 @@ client.on("message", (message) => {
   }
 });
 
-client.login("MzgwMDUyMjE3NjMxMzQyNjI1.DOy-uw.Ienej_m5UzPQulCwbPBYrlfCMJQ");
+client.login(process.env.MzgwMDUyMjE3NjMxMzQyNjI1.DOy-uw.Ienej_m5UzPQulCwbPBYrlfCMJQ);
