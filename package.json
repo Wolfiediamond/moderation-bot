@@ -1,0 +1,10 @@
+{
+  "name": "Moderation Bot",
+  "version": "1.0.0",
+  "description": "A simple, yet effective moderation solution for moderating your Discord bot.",
+  "main": "bot.js",
+  "author": "Wolfie",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
